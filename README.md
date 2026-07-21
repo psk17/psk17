@@ -1,4 +1,4 @@
-# ps17/README.md
+# psk17/README.md
 
 Hey, Pavan this side! 
 
