@@ -1,8 +1,6 @@
 # Hi there, I'm Pavan Kumar 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=600&lines=AI%2FML+%26+Data+Engineer;Full-Stack+Developer+(MERN%2CFastAPI);DevOps+%26+Cloud+Enthusiast;Cybersecurity+Practitioner" alt="Typing SVG" />
-</div>
+![Split-flap](./splitflap.svg)
 
 <div align="center">
   <a href="https://portfolio-lac-eta-54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -114,22 +112,6 @@ Computer Science Engineer specializing in **AI/ML**, **scalable software develop
   * ☁️ AWS Certified Cloud Practitioner
   * 📊 Data Analyst (Python) Certified
   * 🔒 Cybersecurity Specialist Certification
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psk17&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="psk17's Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psk17&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psk17&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 📬 Connect with Me
