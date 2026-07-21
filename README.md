@@ -1,7 +1,5 @@
 # Hi there, I'm Pavan Kumar 👋
 
-![Split-flap](./splitflap.svg)
-
 <div align="center">
   <a href="https://portfolio-lac-eta-54.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/Pavankumark"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
